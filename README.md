@@ -1,7 +1,7 @@
 # ApexQuant
 
 <div align="center">
-  <video src="./Project%20Working.webm" autoplay loop muted playsinline width="100%"></video>
+  <video src="https://github.com/AmulyaInnovates/ApexQuant/blob/main/Project%20Working.webm" autoplay loop muted playsinline width="100%"></video>
 </div>
 
 Full-stack market intelligence platform with a Node/Express backend and Next.js (app router) frontend.
