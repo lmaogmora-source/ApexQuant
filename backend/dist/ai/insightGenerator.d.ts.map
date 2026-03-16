@@ -1,0 +1,1 @@
+{"version":3,"file":"insightGenerator.d.ts","sourceRoot":"","sources":["../../src/ai/insightGenerator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAE7D,UAAU,YAAY;IACpB,MAAM,EAAE,MAAM,CAAC;IACf,UAAU,EAAE,gBAAgB,CAAC;IAC7B,SAAS,EAAE,eAAe,CAAC;CAC5B;AAED,wBAAgB,eAAe,CAAC,EAC9B,MAAM,EACN,UAAU,EACV,SAAS,GACV,EAAE,YAAY,GAAG,MAAM,CA4BvB"}
