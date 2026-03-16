@@ -5,18 +5,7 @@
 </div>
 
 <div align="center">
-  <br />
-  <strong>Full-stack market intelligence platform</strong>
-  <br />
-  Powered by a Node/Express backend and Next.js (app router) frontend.
-  <br />
-  <br />
-  <a href="#-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-run-locally">Run Locally</a> •
-  <a href="#-api-endpoints">API Endpoints</a> •
-  <a href="#-license">License</a>
-  <br />
+  <video src="https://github.com/AmulyaInnovates/ApexQuant/blob/main/Project%20Working.webm" autoplay loop muted playsinline width="100%"></video>
 </div>
 
 ---
